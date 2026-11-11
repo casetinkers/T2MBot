@@ -1,0 +1,8 @@
+fit_dimensions:
+  interest_alignment: 0-5
+  career_alignment: 0-5
+  work_style_alignment: 0-5
+confidence_rules:
+  high: 7+ profile attributes
+  medium: 4-6 profile attributes
+  low: 0-3 profile attributes

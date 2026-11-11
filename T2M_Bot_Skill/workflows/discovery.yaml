@@ -1,0 +1,12 @@
+workflow: discovery
+objective: gather sufficient information before recommendations
+minimum_information:
+  - favorite_classes
+  - engineering_interest
+  - work_preference
+steps:
+  - gather classes
+  - gather interests
+  - gather career goals
+  - gather preferences
+  - update profile

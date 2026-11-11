@@ -1,0 +1,9 @@
+workflow: major_comparison
+compare:
+  - coursework
+  - industries
+  - projects
+  - skills
+  - career_paths
+  - similarities
+  - differences

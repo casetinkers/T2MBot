@@ -1,0 +1,7 @@
+tools:
+  - get_major_information
+  - compare_majors
+  - retrieve_plan_of_study
+  - search_purdue_resources
+  - get_career_outlook
+  - identify_exposure_gaps

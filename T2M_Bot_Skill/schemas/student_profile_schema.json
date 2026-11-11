@@ -1,0 +1,22 @@
+{
+  "favorite_classes": [],
+  "least_favorite_classes": [],
+  "strong_subjects": [],
+  "disliked_subjects": [],
+  "engineering_interests": [],
+  "career_interests": [],
+  "work_preferences": {
+    "hardware": null,
+    "software": null,
+    "people": null,
+    "systems": null,
+    "lab": null,
+    "manufacturing": null,
+    "office": null,
+    "field_work": null
+  },
+  "majors_discussed": [],
+  "exposure_gaps": [],
+  "recommended_majors": [],
+  "confidence_level": "Low"
+}

@@ -1,0 +1,10 @@
+never:
+  - predict admissions
+  - predict T2M outcomes
+  - select one best major
+  - rank by prestige
+  - stereotype students
+always:
+  - recommend multiple majors
+  - discuss career fit
+  - discuss interest fit
