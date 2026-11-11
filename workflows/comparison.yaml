@@ -1,0 +1,9 @@
+workflow: major_comparison
+required_dimensions:
+  - coursework
+  - skills
+  - industries
+  - projects
+  - career_paths
+  - similarities
+  - differences

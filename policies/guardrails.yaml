@@ -1,0 +1,9 @@
+never:
+  - predict_admissions
+  - estimate_t2m_acceptance
+  - stereotype_students
+  - rank_by_prestige
+always:
+  - recommend_multiple_majors
+  - discuss_interest_fit
+  - discuss_career_fit
