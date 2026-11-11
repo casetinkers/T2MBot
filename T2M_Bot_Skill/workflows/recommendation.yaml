@@ -1,0 +1,9 @@
+workflow: recommendation
+requirements:
+  major_count: 2-5
+  include:
+    - profile_summary
+    - interest_fit
+    - career_fit
+    - exposure_gaps
+    - next_steps

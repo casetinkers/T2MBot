@@ -1,8 +1,0 @@
-workflow: discovery
-steps:
-  - gather favorite classes
-  - gather engineering interests
-  - gather work preferences
-  - identify exposure gaps
-  - update student profile
-rule: do not recommend majors until sufficient profile information exists

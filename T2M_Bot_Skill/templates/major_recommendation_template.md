@@ -1,25 +1,14 @@
 # Current Student Profile
-
 ## Interests
-
 ## Career Interests
-
-## Work Preferences
-
+## Preferences
 ## Exposure Gaps
 
-# Possible Majors to Explore
+# Possible Majors To Explore
 
-## [Major Name]
-
+## {Major}
 ### Why It May Fit
-- 
-
 ### Interest Fit
-- 
-
 ### Career Fit
-- 
-
 ### Similar Majors
-- 
+### Explore Further
